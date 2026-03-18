@@ -1,0 +1,8 @@
+{
+  "name": "aria-watchdog",
+  "version": "1.0.0",
+  "main": "aria_watchdog.js",
+  "scripts": {
+    "start": "node aria_watchdog.js"
+  }
+}
