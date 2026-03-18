@@ -20,8 +20,8 @@ const TWILIO_FROM_NUMBER = 'YOUR_TWILIO_PHONE_NUMBER'; // e.g. +18005551234
 const SITES = [
   { name: 'PsychicChatapp',       url: 'https://psychicchatapp.com' },
   { name: 'PsychicWorldConnect',  url: 'https://psychicworldconnection.com' },
-  { name: 'GuidingLightOfficial', url: 'https://psychicguidinglightofficial.com' },
-];
+  { name: 'GuidingLightOfficial', url: 'https://guidinglightchatofficial.com' },
+
 
 // How often to check (milliseconds) — 5 minutes
 const CHECK_INTERVAL = 5 * 60 * 1000;
